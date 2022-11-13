@@ -29,7 +29,7 @@
   font-family: 'tzy';
   /* 字体名自定义即可 */
   /* src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2'); */
-  src: url('/cssJs/ZhuZiAWan.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/zoulicheng/blog_source/ZhuZiAWan.ttf');
   /* 字体文件路径 */
   font-display: swap;
 }
