@@ -1,0 +1,23 @@
+{
+  "name": "blog_data",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[B图床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/zoulicheng/my_blog.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "zoulicheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoulicheng/my_blog/issues"
+  },
+  "homepage": "https://github.com/zoulicheng/my_blog#readme"
+}
