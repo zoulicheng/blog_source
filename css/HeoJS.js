@@ -1,5 +1,5 @@
 categoriesBarActive()
-//topCategoriesBarScroll()
+topCategoriesBarScroll()
 
 //分类条
 function categoriesBarActive(){
